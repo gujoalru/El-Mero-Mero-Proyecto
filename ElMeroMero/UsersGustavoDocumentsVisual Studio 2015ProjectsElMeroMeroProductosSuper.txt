@@ -1,0 +1,4 @@
+Nombre factura:  Cris   cantidad 2
+Nombre producto: papaPrecio: 20 
+Total 46 
+**************************

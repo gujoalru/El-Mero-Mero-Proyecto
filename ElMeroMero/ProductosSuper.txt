@@ -1,0 +1,4 @@
+ Nombre factura:  Tavo cantidad 33
+Nombre producto: limonPrecio: 5 
+Total 189.75 
+**************************
